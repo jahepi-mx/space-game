@@ -1,0 +1,306 @@
+
+space.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+boss2
+  rotate: false
+  xy: 1, 1420
+  size: 817, 626
+  orig: 817, 626
+  offset: 0, 0
+  index: -1
+boss
+  rotate: false
+  xy: 1, 885
+  size: 733, 533
+  orig: 733, 533
+  offset: 0, 0
+  index: -1
+enemy
+  rotate: false
+  xy: 820, 1587
+  size: 577, 459
+  orig: 577, 459
+  offset: 0, 0
+  index: -1
+enemy2
+  rotate: false
+  xy: 1, 395
+  size: 385, 488
+  orig: 385, 488
+  offset: 0, 0
+  index: -1
+Explo
+  rotate: false
+  xy: 1399, 1687
+  size: 394, 359
+  orig: 394, 359
+  offset: 0, 0
+  index: 1
+Explo
+  rotate: false
+  xy: 1, 34
+  size: 394, 359
+  orig: 394, 359
+  offset: 0, 0
+  index: 2
+Explo
+  rotate: false
+  xy: 388, 524
+  size: 394, 359
+  orig: 394, 359
+  offset: 0, 0
+  index: 3
+Explo
+  rotate: false
+  xy: 397, 163
+  size: 394, 359
+  orig: 394, 359
+  offset: 0, 0
+  index: 4
+Explo
+  rotate: false
+  xy: 820, 1226
+  size: 394, 359
+  orig: 394, 359
+  offset: 0, 0
+  index: 5
+Explo
+  rotate: false
+  xy: 1216, 1226
+  size: 394, 359
+  orig: 394, 359
+  offset: 0, 0
+  index: 6
+BlueBulletExplo
+  rotate: false
+  xy: 1795, 1800
+  size: 228, 246
+  orig: 228, 246
+  offset: 0, 0
+  index: 6
+Explo
+  rotate: false
+  xy: 1612, 1326
+  size: 394, 359
+  orig: 394, 359
+  offset: 0, 0
+  index: 7
+Explo
+  rotate: false
+  xy: 1612, 965
+  size: 394, 359
+  orig: 394, 359
+  offset: 0, 0
+  index: 8
+OrangeBulletExplo
+  rotate: false
+  xy: 736, 978
+  size: 228, 246
+  orig: 228, 246
+  offset: 0, 0
+  index: 6
+Explo
+  rotate: false
+  xy: 966, 865
+  size: 394, 359
+  orig: 394, 359
+  offset: 0, 0
+  index: 9
+Energy
+  rotate: false
+  xy: 1362, 1026
+  size: 200, 198
+  orig: 200, 198
+  offset: 0, 0
+  index: -1
+Shield
+  rotate: false
+  xy: 1362, 826
+  size: 199, 198
+  orig: 199, 198
+  offset: 0, 0
+  index: -1
+Explo
+  rotate: false
+  xy: 1563, 604
+  size: 394, 359
+  orig: 394, 359
+  offset: 0, 0
+  index: 10
+ship
+  rotate: false
+  xy: 397, 1
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: -1
+OrangeBulletExplo
+  rotate: false
+  xy: 559, 12
+  size: 149, 149
+  orig: 149, 149
+  offset: 0, 0
+  index: 4
+Explo
+  rotate: false
+  xy: 793, 243
+  size: 394, 359
+  orig: 394, 359
+  offset: 0, 0
+  index: 11
+BlueBulletExplo
+  rotate: false
+  xy: 793, 45
+  size: 197, 196
+  orig: 197, 196
+  offset: 0, 0
+  index: 5
+OrangeBulletExplo
+  rotate: false
+  xy: 992, 45
+  size: 196, 196
+  orig: 196, 196
+  offset: 0, 0
+  index: 5
+BlueBulletExplo
+  rotate: false
+  xy: 784, 827
+  size: 148, 149
+  orig: 148, 149
+  offset: 0, 0
+  index: 4
+BlueBulletExplo
+  rotate: false
+  xy: 784, 687
+  size: 138, 138
+  orig: 138, 138
+  offset: 0, 0
+  index: 3
+OrangeBlast
+  rotate: false
+  xy: 1399, 1626
+  size: 131, 59
+  orig: 131, 59
+  offset: 0, 0
+  index: 1
+OrangeBlast
+  rotate: false
+  xy: 1795, 1739
+  size: 131, 59
+  orig: 131, 59
+  offset: 0, 0
+  index: 2
+BlueTail
+  rotate: false
+  xy: 784, 652
+  size: 115, 33
+  orig: 115, 33
+  offset: 0, 0
+  index: 1
+BlueTail
+  rotate: false
+  xy: 1399, 1591
+  size: 115, 33
+  orig: 115, 33
+  offset: 0, 0
+  index: 2
+BlueTail
+  rotate: false
+  xy: 1399, 1591
+  size: 115, 33
+  orig: 115, 33
+  offset: 0, 0
+  index: 5
+BlueTail
+  rotate: false
+  xy: 1795, 1704
+  size: 115, 33
+  orig: 115, 33
+  offset: 0, 0
+  index: 3
+BlueTail
+  rotate: false
+  xy: 1795, 1704
+  size: 115, 33
+  orig: 115, 33
+  offset: 0, 0
+  index: 4
+OrangeBulletExplo
+  rotate: false
+  xy: 924, 687
+  size: 138, 138
+  orig: 138, 138
+  offset: 0, 0
+  index: 3
+BlueBulletExplo
+  rotate: false
+  xy: 1064, 750
+  size: 113, 113
+  orig: 113, 113
+  offset: 0, 0
+  index: 2
+OrangeBulletExplo
+  rotate: false
+  xy: 1179, 750
+  size: 113, 113
+  orig: 113, 113
+  offset: 0, 0
+  index: 2
+OrangeBulletExplo
+  rotate: false
+  xy: 736, 1356
+  size: 62, 62
+  orig: 62, 62
+  offset: 0, 0
+  index: 1
+BlueBulletExplo
+  rotate: false
+  xy: 710, 100
+  size: 61, 61
+  orig: 61, 61
+  offset: 0, 0
+  index: 1
+OrangeSpin
+  rotate: false
+  xy: 1064, 687
+  size: 60, 61
+  orig: 60, 61
+  offset: 0, 0
+  index: 1
+OrangeSpin
+  rotate: false
+  xy: 1294, 802
+  size: 60, 61
+  orig: 60, 61
+  offset: 0, 0
+  index: 2
+OrangeSpin
+  rotate: false
+  xy: 736, 1293
+  size: 60, 61
+  orig: 60, 61
+  offset: 0, 0
+  index: 3
+rocket
+  rotate: false
+  xy: 736, 1226
+  size: 37, 65
+  orig: 37, 65
+  offset: 0, 0
+  index: -1
+OrangeSpin
+  rotate: false
+  xy: 710, 37
+  size: 60, 61
+  orig: 60, 61
+  offset: 0, 0
+  index: 4
+OrangeSpin
+  rotate: false
+  xy: 1126, 687
+  size: 60, 61
+  orig: 60, 61
+  offset: 0, 0
+  index: 5
